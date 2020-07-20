@@ -1,0 +1,126 @@
+@import './variables';
+@import './box';
+@import './flex';
+@import './text';
+@import './color';
+@import './position';
+@import './wx-components';
+page {
+    background-color: $body
+    font-family:$primaryFamily
+    padding-bottom: .5rem
+}
+.radio-size {
+    font-size: 10px
+    }
+.bottom-btn {
+    position fixed
+    bottom 3rem
+    left 0 
+    right 0 
+    margin auto
+    }
+.search-input {
+    border solid 1px $grey;
+    border-radius: 2rem
+    // width: 100%
+    padding: .5rem 1rem
+    margin: .3rem 0
+    }
+
+.hidden {
+    visibility hidden
+    }
+
+
+.width30 {
+    width: 30%
+    }
+.width40 {
+    width: 40%
+    }
+.width50 {
+    width: 50%
+    }
+.width80 {
+    width: 80%
+    }
+.width100 {
+    width: 100%
+    }
+
+
+.list-label 
+    font-size:28upx;
+    font-weight:400;
+    color:rgba(0,0,0,1);
+    line-height:40upx;
+.list-value
+    font-size:28upx;
+    font-weight:400;
+    color:rgba(136,136,136,1);
+    line-height:40upx;
+.list-input
+    text-align: right 
+.holder-img
+	position relative
+	z-index 2
+	width:217upx;
+	height:142upx;
+	background:rgba(239,239,239,1);
+	border:1upx solid rgba(222,222,222,1);
+.holder-img:before
+	content attr(mode)
+	position absolute
+	top 0
+	bottom 0
+	left 0
+	right 0
+	z-index 1
+	margin auto
+	height:40upx;
+	text-align center
+	font-size:28upx;
+	font-weight:400;
+	color:rgba(153,153,153,1);
+	line-height:40upx;
+
+
+.mini-btn
+	display inline
+	height auto;
+	padding: 8upx 20upx 
+
+	font-size:26upx;
+	font-weight:400;
+	text-align: center
+	line-height:36upx;
+	border-radius 6upx
+.primary-btn
+	background #D6E9FF
+	color #7FB0E9
+	border 2upx solid #7FB0E9
+.grey-btn{
+    background #EFEFEF
+	color #333333}
+.error-btn
+	background  #FFE5DD
+	color $error
+	border 2upx solid $error
+.warning-btn
+	background  #FFF4D6
+	color $warning
+	border 2upx solid $warning
+.success-btn
+	background  #fff
+	color $success
+	border 2upx solid $success
+.circle-btn
+    border-radius: 30upx
+
+.primary-textarea
+    width: 100%
+    min-height: 50upx
+    padding $primaryPadding
+    border-top 2upx solid #E5E5E5
+    border-bottom 2upx solid #E5E5E5

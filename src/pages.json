@@ -1,0 +1,357 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/index/canteen-manager/index",
+			"style": {
+				"navigationBarTitleText": "食堂管理"
+			}
+		},
+		{
+			"path": "pages/index/study-check/index",
+			"style": {
+				"navigationBarTitleText": "学习考核"
+			}
+		},
+		{
+			"path": "pages/index/task/index",
+			"style": {
+				"navigationBarTitleText": "任务"
+			}
+		},
+
+
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/platform/index",
+			"style": {
+				"navigationBarTitleText": "工作台"
+			}
+		},
+		{
+			"path": "pages/platform/canteen-manager/index",
+			"style": {
+				"navigationBarTitleText": "食堂管理"
+			}
+		},
+	
+		{
+			"path": "pages/platform/base-info/index",
+			"style": {
+				"navigationBarTitleText": "食安信息"
+			}
+		},
+		{
+			"path": "pages/platform/check-self/index",
+			"style": {
+				"navigationBarTitleText": "食安员自查"
+			}
+		},
+		{
+			"path": "pages/platform/comment/index",
+			"style": {
+				"navigationBarTitleText": "点评评论"
+			}
+		},
+		{
+			"path": "pages/platform/comment-add/index",
+			"style": {
+				"navigationBarTitleText": "添加评论"
+			}
+		},
+		{
+			"path": "pages/platform/company/index",
+			"style": {
+				"navigationBarTitleText": "陪餐公示"
+			}
+		},
+		{
+			"path": "pages/platform/train/index",
+			"style": {
+				"navigationBarTitleText": "培训记录"
+			}
+		},
+		{
+			"path": "pages/platform/train-add/index",
+			"style": {
+				"navigationBarTitleText": "创建培训"
+			}
+		},
+		{
+			"path": "pages/platform/meal-count/index",
+			"style": {
+				"navigationBarTitleText": "用餐人数"
+			}
+		},
+		{
+			"path": "pages/platform/meal-count-add/index",
+			"style": {
+				"navigationBarTitleText": "新增用餐"
+			}
+		},
+		{
+			"path": "pages/platform/security-knowledge/index",
+			"style": {
+				"navigationBarTitleText": "安全知识"
+			}
+		},
+		{
+			"path": "pages/platform/security-knowledge-detail/index",
+			"style": {
+				"navigationBarTitleText": "安全知识详情"
+			}
+		},
+
+	
+		{
+			"path": "pages/platform/purchase/index",
+			"style": {
+				"navigationBarTitleText": "采购验收"
+			}
+		},
+		{
+			"path": "pages/platform/purchase-add/index",
+			"style": {
+				"navigationBarTitleText": "采购验收添加"
+			}
+		},
+		{
+			"path": "pages/platform/purchase-detail/index",
+			"style": {
+				"navigationBarTitleText": "采购验收详情"
+			}
+		},
+		
+		{
+			"path": "pages/platform/sample/index",
+			"style": {
+				"navigationBarTitleText": "留样管理"
+			}
+		},
+		{
+			"path": "pages/platform/sample-add/index",
+			"style": {
+				"navigationBarTitleText": "留样添加"
+			}
+		},
+		{
+			"path": "pages/platform/sample-detail/index",
+			"style": {
+				"navigationBarTitleText": "留样详情"
+			}
+		},
+
+		{
+			"path": "pages/platform/garbage/index",
+			"style": {
+				"navigationBarTitleText": "废弃物"
+			}
+		},
+		{
+			"path": "pages/platform/garbage-add/index",
+			"style": {
+				"navigationBarTitleText": "废弃物添加"
+			}
+		},
+		{
+			"path": "pages/platform/garbage-detail/index",
+			"style": {
+				"navigationBarTitleText": "废弃物详情"
+			}
+		},
+
+		{
+			"path": "pages/platform/wash/index",
+			"style": {
+				"navigationBarTitleText": "清洗"
+			}
+		},
+		{
+			"path": "pages/platform/wash-add/index",
+			"style": {
+				"navigationBarTitleText": "清洗添加"
+			}
+		},
+		{
+			"path": "pages/platform/wash-detail/index",
+			"style": {
+				"navigationBarTitleText": "清洗详情"
+			}
+		},
+		{
+			"path": "pages/platform/additive/index",
+			"style": {
+				"navigationBarTitleText": "添加剂"
+			}
+		},
+		{
+			"path": "pages/platform/additive-add/index",
+			"style": {
+				"navigationBarTitleText": "添加剂添加"
+			}
+		},
+		{
+			"path": "pages/platform/additive-detail/index",
+			"style": {
+				"navigationBarTitleText": "添加剂详情"
+			}
+		},
+
+		{
+			"path": "pages/platform/disinfectant/index",
+			"style": {
+				"navigationBarTitleText": "消毒台账"
+			}
+		},
+		{
+			"path": "pages/platform/disinfectant-add/index",
+			"style": {
+				"navigationBarTitleText": "消毒台账添加"
+			}
+		},
+		{
+			"path": "pages/platform/disinfectant-detail/index",
+			"style": {
+				"navigationBarTitleText": "消毒台账详情"
+			}
+		},
+		{
+			"path": "pages/platform/health-certification/index",
+			"style": {
+				"navigationBarTitleText": "健康证管理"
+			}
+		},
+		{
+			"path": "pages/platform/live/index",
+			"style": {
+				"navigationBarTitleText": "直播"
+			}
+		},
+		{
+			"path": "pages/platform/menu/index",
+			"style": {
+				"navigationBarTitleText": "菜单公示"
+			}
+		},
+		{
+			"path": "pages/platform/menu-add/index",
+			"style": {
+				"navigationBarTitleText": "菜单添加"
+			}
+		},
+		{
+			"path": "pages/platform/morning-check/index",
+			"style": {
+				"navigationBarTitleText": "晨检记录"
+			}
+		},
+		{
+			"path": "pages/platform/morning-check-add/index",
+			"style": {
+				"navigationBarTitleText": "添加晨检"
+			}
+		},
+		{
+			"path": "pages/platform/morning-check-detail/index",
+			"style": {
+				"navigationBarTitleText": "晨检记录详情"
+			}
+		},
+	
+		{
+			"path": "pages/platform/supervision/index",
+			"style": {
+				"navigationBarTitleText": "监督检查"
+			}
+		},
+		
+		{
+			"path": "pages/platform/supervision-detail/index",
+			"style": {
+				"navigationBarTitleText": "监督检查详情"
+			}
+		},
+		{
+			"path": "pages/platform/task/index",
+			"style": {
+				"navigationBarTitleText": "任务"
+			}
+		},
+
+
+		{
+			"path": "pages/task/index",
+			"style": {
+				"navigationBarTitleText": "任务"
+			}
+		},
+		{
+			"path": "pages/task/create-task/index",
+			"style": {
+				"navigationBarTitleText": "创建任务"
+			}
+		},
+		{
+			"path": "pages/task/task-detail/index",
+			"style": {
+				"navigationBarTitleText": "任务详情"
+			}
+		},
+
+
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#cccccc",
+		"selectedColor": "#FF7466",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/tab-icon/first.png",
+				"selectedIconPath": "static/tab-icon/first-selected.png"
+			},
+			
+			{
+				"pagePath": "pages/task/index",
+				"text": "任务",
+				"iconPath": "static/tab-icon/task.png",
+				"selectedIconPath": "static/tab-icon/task-selected.png"
+			},
+			{
+				"pagePath": "pages/platform/index",
+				"text": "工作台",
+				"iconPath": "static/tab-icon/platform.png",
+				"selectedIconPath": "static/tab-icon/platform-selected.png"
+			},
+			{
+				"pagePath": "pages/mine/index",
+				"text": "我的",
+				"iconPath": "static/tab-icon/mine.png",
+				"selectedIconPath": "static/tab-icon/mine-selected.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#FF7466",
+		"navigationBarTitleText": "WeChat",
+		"navigationBarTextStyle": "white",
+		"backgroundColor": "#EFEFF4"
+	}
+}

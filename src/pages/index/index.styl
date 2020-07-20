@@ -1,0 +1,50 @@
+
+$imgHeight = 100upx
+$percentageOffset = -100upx
+.header
+    position relative
+    height:220upx;
+    padding: 60upx 20upx 
+    color:rgba(255,255,255,1);
+    background:$primaryColor
+    .title
+        padding-bottom: 20upx
+        font-size:32upx;
+        font-weight:500;
+        line-height:45upx;
+    .img 
+       width: 167upx
+       height $imgHeight
+    .summary
+        flex 2
+        font-size:32upx;
+        text-align: center
+        font-family:MicrosoftYaHei;
+        line-height $imgHeight
+        .count
+            padding 0 10upx
+            font-size: 40upx
+.percentage-con
+    position relative
+    top $percentageOffset
+    // height:200upx;
+    margin: 0 24upx $percentageOffset 24upx
+    background:rgba(71,156,255,1);
+    box-shadow:0px 0px 6upx 0px rgba(0,0,0,0.1);
+    border-radius:8px;
+    .percentage
+        width: 100px
+        height 120px
+.scroll-con
+    .card-top
+        padding-bottom:  10upx 
+        border-bottom: 2upx #DDD dashed
+        font-size:28upx;
+        font-weight:500;
+        color:rgba(51,51,51,1);
+        line-height:40upx;
+    .progress-width
+        width: 25%
+        margin-top: 20upx
+        // .city
+        // .school
